@@ -1,4 +1,5 @@
-/* test */
+//1. Changer le a.
+//2. Au lieu de b, prendre la factorielle de b.
 
 var str = new function() {
   this.title_dreaming = "Je dors."

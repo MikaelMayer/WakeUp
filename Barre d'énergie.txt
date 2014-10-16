@@ -1,0 +1,12 @@
+-- code
+1. compteur d'énergie
+2. compteur d'énergie max.
+3. Mettre l'énergie au maximum.
+4. Diminuer l'énergie d'un montant.
+5. Appeler une fonction si l'énergie passe à zéro.
+6. Mettre en place un "poison" tous les tant de secondes. Et annulable.
+
+-- interface
+- Une boîte horizontale bordures noires, et taille fournie.
+- Une petite boîte à l'intérieur qui correspond à l'énergie.
+- Animer la taille de la boîte.
